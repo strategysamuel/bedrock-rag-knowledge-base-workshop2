@@ -26,20 +26,8 @@ This repository contains the code and notebooks I used to build a Retrieval Augm
 
 ## Notebooks
 
-- `01_create_ingest_documents_test_kb_multi_ds.ipynb`  
+- `create_ingest_documents_test_kb_multi_ds.ipynb`  
   End-to-end: create Knowledge Base, ingest data into S3, run ingestion job, and test retrieval.
-
-- `02_managed_retrieveandgenerate_and_streamapi.ipynb` *(optional)*  
-  Managed RAG using RetrieveAndGenerate API and streaming responses.
-
-- `03_customized_rag_retreive_api_hybrid_search_langchain.ipynb` *(optional)*  
-  Custom RAG workflow using the Retrieve API and LangChain hybrid search.
-
-- `04_customized_rag_retreive_api_langchain_evaluation_ragas.ipynb` *(optional)*  
-  Evaluation of the RAG pipeline using the RAGAS framework.
-
-- `05_document_level_kb_ingestion.ipynb` *(optional)*  
-  Near real-time ingestion using Document Level API (DLA).
 
 ## How to Run
 
