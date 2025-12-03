@@ -26,7 +26,7 @@ This repository contains the code and notebooks I used to build a Retrieval Augm
 
 ## Notebooks
 
-- `create_ingest_documents_test_kb_multi_ds.ipynb`  
+- `01_create_ingest_documents_test_kb_multi_ds.ipynb`  
   End-to-end: create Knowledge Base, ingest data into S3, run ingestion job, and test retrieval.
 
 ## How to Run
